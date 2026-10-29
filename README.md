@@ -1,16 +1,24 @@
-## Hi there 👋
+# Matheus Quintela
 
-<!--
-**mathheusquintela-design/mathheusquintela-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Engineer** · Engineering student at [ITA](https://www.ita.br) (Brazil's top engineering institute)
 
-Here are some ideas to get you started:
+I take problems from idea to shipped product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+**[AprovaMed+](https://aprovamedmais.com.br)** — AI-powered medical education platform I founded and built solo:
+60k+ question bank, RAG over pgvector, and an AI tutor that diagnoses *why* students get questions
+wrong (3-phase error classification pipeline), not just what they got wrong. 50 users and first
+commercial partnership closed. Next.js · TypeScript · Supabase · OpenAI
+
+**Funniie Platforms** — software engineer (full-stack & AI) on a multi-tenant SaaS:
+RAG pipeline (1,000+ PDFs ingested), LangGraph agents, multi-provider LLM gateway,
+AWS infra as code (CDK), 5+ deploys/week. Python · FastAPI · React Native
+
+## Stack
+
+`Python` `TypeScript` `FastAPI` `Next.js` `PostgreSQL + pgvector` `Supabase` `AWS (ECS, S3, CDK)` `LangGraph`
+
+## Reach me
+
+[LinkedIn](https://linkedin.com/in/matheus-quintela) · mathheusquintela@gmail.com
